@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="textview">TextView</string>
+    <string name="note_app">Note App</string>
+    <string name="write_note">Note</string>
+    <string name="note">Note Subtitle</string>
+    <string name="type_note_here">Type Note Here</string>
+    <string name="my_notes">My Notes</string>
+    <string name="todo">TODO</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="are_you_sure_you_wan_to_delete_this_note">Are you sure you wan to delete this note</string>
+    <string name="delete_note1">delete note</string>
+</resources>
